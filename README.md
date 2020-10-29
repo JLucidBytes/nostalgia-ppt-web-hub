@@ -3,8 +3,12 @@ Testing Out A Website Template (From W3Schools) For My Upcoming PowerPoint Recre
 
 ---
 
-Full Presentation Release Soon.
+Full Presentation Released! Download It If You So Choose.
 
 ---
 
 Simply Download The HTML Files (Or Just Copy-Paste The Code) Into Any .html File, You Should Be Done After That!
+
+---
+
+![Our Logo](https://raw.githubusercontent.com/JLucidBytes/nostalgiappt/main/images/cover.png "Logo")
