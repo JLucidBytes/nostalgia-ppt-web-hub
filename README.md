@@ -7,7 +7,7 @@ Full Presentation Released! Download It If You So Choose.
 
 ---
 
-Simply Download The HTML Files (Or Just Copy-Paste The Code) Into Any .html File, You Should Be Done After That!
+Simply Download The Files, Extract Them, Run The Presentation In PowerPoint 2019, And You Should Be Done!
 
 ---
 
