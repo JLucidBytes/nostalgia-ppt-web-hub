@@ -11,4 +11,8 @@ Simply Download The Files, Extract Them, Run The Presentation In PowerPoint 2019
 
 ---
 
+Check Out Our Wiki For Useful Info/Guides!
+
+---
+
 ![Our Logo](https://raw.githubusercontent.com/JLucidBytes/nostalgiappt/main/images/cover.png "Logo")
